@@ -1,0 +1,42 @@
+[
+  Object({
+    "approxDurationMs": String("324916"),
+    "audioChannels": Number(2),
+    "audioQuality": String("AUDIO_QUALITY_LOW"),
+    "audioSampleRate": String("44100"),
+    "averageBitrate": Number(735322),
+    "bitrate": Number(735456),
+    "contentLength": String("29864763"),
+    "fps": Number(30),
+    "height": Number(360),
+    "itag": Number(18),
+    "lastModified": String("1575021828584660"),
+    "mimeType": String("video/mp4;+codecs=\"avc1.42001E,+mp4a.40.2\""),
+    "projectionType": String("RECTANGULAR"),
+    "quality": String("medium"),
+    "qualityLabel": String("360p"),
+    "url": String(
+      "https://r12---sn-cxauxaxjvh-hn9es.googlevideo.com/videoplayback?expire=1605366967&ei=V6CvX9LUD8vL7gSh0Z3QAg&ip=37.214.59.95&id=o-ABHdSeletDkvfXSrfR8rZIo3Y4GHzVxDakjT_0_jloj7&itag=18&source=youtube&requiressl=yes&mh=t6&mm=31%2C26&mn=sn-cxauxaxjvh-hn9es%2Csn-4g5ednee&ms=au%2Conr&mv=m&mvi=12&pl=22&initcwndbps=973750&vprv=1&mime=video%2Fmp4&ns=sssQXYlkYuEEnE3oJTQLWYIF&gir=yes&clen=29864763&ratebypass=yes&dur=324.916&lmt=1575021828584660&mt=1605345285&fvip=1&c=WEB&txp=5531432&n=OdQYGG6C-yurC6CHV&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIgAQBXKGEei83_zMHkRZRfECm-ICa-jK0gE2jPsHvusPACIQDjDlwVY6Rp1_8NAraWobIRGEyXUXngnLRQ4MWzDOMV3w%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgRNIcC6RWzdReBkSSPnNy9p39s5fVDZPoNnEfgCy2OT0CIGgd5S15IHNIUgcFArUkPyZ4peZH76oW9_30MDHGTr71"
+    ),
+    "width": Number(640)
+  }),
+  Object({
+    "approxDurationMs": String("324916"),
+    "audioChannels": Number(2),
+    "audioQuality": String("AUDIO_QUALITY_MEDIUM"),
+    "audioSampleRate": String("44100"),
+    "bitrate": Number(2335016),
+    "fps": Number(30),
+    "height": Number(720),
+    "itag": Number(22),
+    "lastModified": String("1575022245225065"),
+    "mimeType": String("video/mp4;+codecs=\"avc1.64001F,+mp4a.40.2\""),
+    "projectionType": String("RECTANGULAR"),
+    "quality": String("hd720"),
+    "qualityLabel": String("720p"),
+    "url": String(
+      "https://r12---sn-cxauxaxjvh-hn9es.googlevideo.com/videoplayback?expire=1605366967&ei=V6CvX9LUD8vL7gSh0Z3QAg&ip=37.214.59.95&id=o-ABHdSeletDkvfXSrfR8rZIo3Y4GHzVxDakjT_0_jloj7&itag=22&source=youtube&requiressl=yes&mh=t6&mm=31%2C26&mn=sn-cxauxaxjvh-hn9es%2Csn-4g5ednee&ms=au%2Conr&mv=m&mvi=12&pl=22&initcwndbps=973750&vprv=1&mime=video%2Fmp4&ns=sssQXYlkYuEEnE3oJTQLWYIF&ratebypass=yes&dur=324.916&lmt=1575022245225065&mt=1605345285&fvip=1&c=WEB&txp=5532432&n=OdQYGG6C-yurC6CHV&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRgIhAOCVO4zh1fOjt2e3KD7rcDDUgwmvB_u3sT5Q9xJOe6abAiEA64CyUCpjE2JD_YMTXdbMbKDsP7NC_79oWPRjHNII0gY%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgRNIcC6RWzdReBkSSPnNy9p39s5fVDZPoNnEfgCy2OT0CIGgd5S15IHNIUgcFArUkPyZ4peZH76oW9_30MDHGTr71"
+    ),
+    "width": Number(1280)
+  })
+]
